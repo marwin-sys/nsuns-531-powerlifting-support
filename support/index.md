@@ -1,6 +1,6 @@
 # Support
 
-Diese App ist eine einfache Krafttraining App.
+  nSuns 531 Powerlifting is a simple workout companion for the nSuns powerlifting routine.
 
-Bei Fragen, Feedback oder Problemen:
-E-Mail: marwin.biermaier@gmail.com
+  For questions, feedback, or issues:
+  Email: marwin.biermaier@gmail.com
