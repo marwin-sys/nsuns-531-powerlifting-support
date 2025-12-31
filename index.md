@@ -1,6 +1,6 @@
-# nSuns 5/3/1 Powerlifting
+# nSuns 531 Powerlifting
 
-Informationsseite zur iOS-App „nSuns 5/3/1 Powerlifting“.
+Information Page for the iOS-App „nSuns 531 Powerlifting“.
 
-- [Datenschutzerklärung](privacy/)
+- [Privacy Policy](privacy/)
 - [Support](support/)
